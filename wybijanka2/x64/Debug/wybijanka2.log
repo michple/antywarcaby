@@ -1,0 +1,11 @@
+﻿  AIPlayer.cpp
+C:\Users\Michal\Desktop\gra\wybijanka2\wybijanka2\AIPlayer.cpp(58,41): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Michal\Desktop\gra\wybijanka2\wybijanka2\AIPlayer.cpp(74,52): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  AIPlayer1.cpp
+  Piece.cpp
+  Plansza.cpp
+  Player.cpp
+  Ruch.cpp
+  wybijanka2.cpp
+  Generowanie kodu...
+  wybijanka2.vcxproj -> C:\Users\Michal\Desktop\gra\wybijanka2\x64\Debug\wybijanka2.exe
